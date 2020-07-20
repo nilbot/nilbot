@@ -40,6 +40,6 @@ Say Hello, I don't bite!
 
 #### 📫 How to reach me
 
-- Twitter: https://twitter.com/nilbot
+- Twitter: https://twitter.com/niersi
 - Fediverse: https://mastodon.online/@nilbot
 - Blog: https://blog.nilbot.net
